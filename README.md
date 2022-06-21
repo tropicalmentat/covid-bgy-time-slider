@@ -11,3 +11,4 @@
 - https://docs.mapbox.com/help/tutorials/show-changes-over-time/
 - https://in.springboard.com/blog/time-series-analysis-interactive-time-series-maps-for-covid-19-spread/
 - https://support.sisense.com/kb/en/article/plotly-choropleth-with-slider-map-charts-over-time
+- https://leafletjs.com/plugins.html#time--elevation
