@@ -1,6 +1,10 @@
 # Interactive geospatial and timeseries visualization
 
 ## Objective
+- Visualize longitudinal data of COVID19 (Date publicly announced of confirmed case) and geospatial footprint of cases at the barangay level.
+
+## Notes
+- Leaflet has a bunch of features for interactivity with the time dimension of data. Possible solution for visualizing the barangay-level choropleth with a time sequence may be found here.
 
 ### References
 - https://gis.stackexchange.com/questions/223870/time-series-coloring-of-polygons-in-browser-preferably-mapbox
